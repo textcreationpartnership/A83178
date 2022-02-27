@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the continuance of the weekly assessement for the reliefe of the Brittish Army in Ireland for six moneths longer, to commence the first of May, 1646 Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83178</idno>
+            <idno type="STC">Wing E1963aA</idno>
+            <idno type="STC">ESTC R231797</idno>
+            <idno type="EEBO-CITATION">99897489</idno>
+            <idno type="PROQUEST">99897489</idno>
+            <idno type="VID">133265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the continuance of the weekly assessement for the reliefe of the Brittish Army in Ireland for six moneths longer, to commence the first of May, 1646 Ordered by the Lords assembled in Parliament, that this ordinance be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133265:1" rendition="simple:additions"/>
+            <p>An ORDINANCE OF THE LORDS and COMMONS Aſſembled in PARLIAMENT FOR The continuance of the weekly Aſſeſſe<g ref="char:EOLhyphen"/>ment for the reliefe of the Brittiſh Army in Ireland For ſix moneths longer, to commence the firſt of May, 1646.</p>
+            <p>ORdered by the Lords Aſſembled in Parliament, That this Ordinance be forthwith printed and publiſhed.</p>
+            <p>
+               <hi>Joh. Brown Cler. Parliamentorum.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Iohn Wright</hi> at the Kings Head in the old Bayley. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:133265:2"/>
+            <pb facs="tcp:133265:2" rendition="simple:additions"/>
+            <head>Die Lunae <hi>9.</hi> Martii <hi>1645.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Com<g ref="char:EOLhyphen"/>mons in this preſent Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, have by their Ordinance of the 18. of <hi>October</hi> 1644. (which in ſome Printed Copies beareth date the 16. of <hi>October,</hi> 1644.) Ordained, That a weekely Aſſeſſement ſhould be had, made, and leavied through the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> for the reliefe of the Brittiſh Army in <hi>Ireland,</hi> to com<g ref="char:EOLhyphen"/>mence from the firſt day of <hi>September</hi> then laſt paſt, and to continue for one whole yeare, as by the ſaid Ordinance more at large appeareth. And whereas the ſaid Lords and Commons, have by another Ordinance of theirs, dated the 15. day of <hi>Auguſt,</hi> 1645. Ordained and Declared, that the before mentioned Ordinance of the 18. of <hi>October,</hi> 1644. for laying the ſaid weekely Aſſeſſement for one whole yeare, ſhould after the time limi<g ref="char:EOLhyphen"/>ted therein, for continuance thereof be revived, and have continuance for the ſpace of ſix Moneths longer; to commence the firſt of <hi>November,</hi> 1645. and to end the laſt of <hi>April,</hi> 1646. with the alte<g ref="char:EOLhyphen"/>rations, limitations, and proviſoes therein men<g ref="char:EOLhyphen"/>tioned. As by the ſaid Ordinance of the 15. of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi>
+               <pb n="2" facs="tcp:133265:3"/>1645. (relation being thereunto had) more at large may appeare. For as much now, as it is found moſt expedient, that conſiderable numbers of Horſe and Foot be added to thoſe that are alrea<g ref="char:EOLhyphen"/>dy in <hi>Ireland,</hi> and that ſupplyes of all ſorts be fur<g ref="char:EOLhyphen"/>ther provided, and ſent thither for the carrying on of that Warre this next Summer, which will re<g ref="char:EOLhyphen"/>quire a further expence of monies then can be rai<g ref="char:EOLhyphen"/>ſed by the ſaid weekly Aſſeſſements for the time ſet, and limited in the Ordinances aforeſaid. Be it hereby Ordained by the ſaid Lords and Commons in this preſent Parliament, That the ſaid weekly Aſſeſſement firſt to be charged, rated, taxed, and leavied for one whole yeare by the aforeſaid Ordi<g ref="char:EOLhyphen"/>nance of the 18. of <hi>October,</hi> 1644. entituled, <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, for an Aſſeſſement through the Kingdome of</hi> England, <hi>and Dominion of</hi> Wales, <hi>for the preſent reliefe of the Brittiſh Armies in Ireland;</hi> and ſince revived, and continued by another Ordinance of the 15. of <hi>Auguſt,</hi> 1645. for ſix Moneths longer, to commence the firſt of <hi>November,</hi> 1645. and end the laſt of <hi>April,</hi> 1646. ſhall after the time limited in thoſe Ordinances, have continuance for the ſpace of ſix Moneths longer; to commence the firſt day of <hi>May,</hi> 1646. and end the laſt day of <hi>October</hi> then next following, and ſhall be Aſſeſſed, leavied, col<g ref="char:EOLhyphen"/>lected, and paid according to the true intent and meaning of the aforeſaid Ordinances.</p>
+            <closer>
+               <signed>Joh. Brown Cler. Parliamentorum. Hen. Eſynge Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
